@@ -1,4 +1,4 @@
-package com.sgcbapps.dsa;
+package com.sgcbapps.dsa.recursion;
 
 public class CountOccurenceOfAnElement {
 
