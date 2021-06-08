@@ -10,4 +10,5 @@ public class PrintAllSubsequenceOfString {
         printSubSequence(input.substring(1),output+input.substring(0,1));
         printSubSequence(input.substring(1),output);
     }
+
 }
